@@ -1,3 +1,3 @@
-# Indic Amigo Akademi
+# Nomoskar, this is IAA team
 
-An non-profit association of likely minded individuals from technology domain to promote, contribute and grow open-source network.
+Indic Amigo Akademi is a non-profit association of likely minded individuals from technology domain to promote, contribute and grow open-source network.
